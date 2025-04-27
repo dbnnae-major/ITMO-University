@@ -9,7 +9,7 @@
 **Содержание:**  
 1-3, 5-8 Лабораторные работы, расписанные билеты к рубежкам  
 **Оценка:** 5/A  
-[![Перейти](https://img.shields.io/badge/Перейти_к_материалам-8A2BE2?style=for-the-badge&logo=github)](https://github.com/dbnnae-major/university-prog)
+[![Перейти](https://img.shields.io/badge/Перейти_к_материалам-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff)](https://github.com/dbnnae-major/university-prog)
 
 ---
 
@@ -19,7 +19,7 @@
 **Содержание:**  
 1-4 Лабораторные работы, расписанные билеты к рубежкам  
 **Оценка:** 4/C  
-[![Перейти](https://img.shields.io/badge/Перейти_к_материалам-8A2BE2?style=for-the-badge&logo=github)](https://github.com/dbnnae-major/university-web)
+[![Перейти](https://img.shields.io/badge/Перейти_к_материалам-8A2BE2?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff)](https://github.com/dbnnae-major/university-web)
 
 ---
 
