@@ -29,4 +29,5 @@
 **Содержание:**  
 1-6 Лабораторные работы 
 **Оценка:** 
+
 [![Перейти](https://img.shields.io/badge/Перейти_к_материалам-8A2BE2?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=ffffff)](https://github.com/dbnnae-major/university-computationalmathematics)
